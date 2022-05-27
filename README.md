@@ -10,9 +10,13 @@ This repository houses all the source code, assets and music used for the How's 
 Here is the dev team!
 
 ### Programming
+
 James Greensill - *Lead, Systems* - [Portfolio](https://www.jamesgreensill.com) | [Github](https://www.github.com/jwrmg)
+
 Ronan Richardson - *Producer, Gameplay* - [Portfolio](https://www.ronanrichardson.com)
+
 Calvin Soueid - *Systems* - [Portfolio](https://calvin.soueid.io) | [Github](https://github.com/BlackxSnow)
+
 Alex Manning - *Gameplay*
 
 ### Art
